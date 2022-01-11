@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T08:19:36.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="uiZ-LvaHFmXRYiY3LJVK" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-11T09:21:14.617Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="bJiuERGEktEqqNWaIxV0" version="16.2.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,7 +72,7 @@
           <mxGeometry y="260" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="z-ud-6PMD6aTiRvBd8kk-17" value="Scooter（车辆）" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="40" width="140" height="156" as="geometry" />
+          <mxGeometry x="220" y="318" width="140" height="156" as="geometry" />
         </mxCell>
         <mxCell id="z-ud-6PMD6aTiRvBd8kk-18" value="frameNo：车架号" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="z-ud-6PMD6aTiRvBd8kk-17">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -123,7 +123,7 @@
           <mxGeometry y="260" width="150" height="26" as="geometry" />
         </mxCell>
         <mxCell id="z-ud-6PMD6aTiRvBd8kk-37" value="Station（换电柜）" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="30" y="370" width="140" height="234" as="geometry" />
+          <mxGeometry x="30" y="520" width="140" height="234" as="geometry" />
         </mxCell>
         <mxCell id="z-ud-6PMD6aTiRvBd8kk-49" value="sn：电柜SN" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="z-ud-6PMD6aTiRvBd8kk-37">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -150,7 +150,7 @@
           <mxGeometry y="208" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="z-ud-6PMD6aTiRvBd8kk-45" value="ElectricityContract（电费合同）" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="370" width="220" height="260" as="geometry" />
+          <mxGeometry x="220" y="520" width="220" height="260" as="geometry" />
         </mxCell>
         <mxCell id="z-ud-6PMD6aTiRvBd8kk-46" value="contractNo：合同编号" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="z-ud-6PMD6aTiRvBd8kk-45">
           <mxGeometry y="26" width="220" height="26" as="geometry" />
@@ -180,7 +180,7 @@
           <mxGeometry y="234" width="220" height="26" as="geometry" />
         </mxCell>
         <mxCell id="z-ud-6PMD6aTiRvBd8kk-57" value="S_EC_Relation（电柜合同关联表）" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="370" width="230" height="104" as="geometry" />
+          <mxGeometry x="500" y="460" width="230" height="104" as="geometry" />
         </mxCell>
         <mxCell id="z-ud-6PMD6aTiRvBd8kk-58" value="stationId：电柜" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="z-ud-6PMD6aTiRvBd8kk-57">
           <mxGeometry y="26" width="230" height="26" as="geometry" />
@@ -192,7 +192,7 @@
           <mxGeometry y="78" width="230" height="26" as="geometry" />
         </mxCell>
         <mxCell id="z-ud-6PMD6aTiRvBd8kk-61" value="ElectricityBill（电费账单）" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="510" width="190" height="208" as="geometry" />
+          <mxGeometry x="500" y="620" width="190" height="208" as="geometry" />
         </mxCell>
         <mxCell id="z-ud-6PMD6aTiRvBd8kk-62" value="contractId：合同" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="z-ud-6PMD6aTiRvBd8kk-61">
           <mxGeometry y="26" width="190" height="26" as="geometry" />
@@ -214,6 +214,27 @@
         </mxCell>
         <mxCell id="z-ud-6PMD6aTiRvBd8kk-68" value="account：收款账户" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="z-ud-6PMD6aTiRvBd8kk-61">
           <mxGeometry y="182" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="z-ud-6PMD6aTiRvBd8kk-69" value="OrderDetail（订单明细）" style="swimlane;fontStyle=2;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="40" width="170" height="182" as="geometry" />
+        </mxCell>
+        <mxCell id="z-ud-6PMD6aTiRvBd8kk-70" value="goodsId：商品" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="z-ud-6PMD6aTiRvBd8kk-69">
+          <mxGeometry y="26" width="170" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="z-ud-6PMD6aTiRvBd8kk-71" value="beginTime：开始时间" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="z-ud-6PMD6aTiRvBd8kk-69">
+          <mxGeometry y="52" width="170" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="z-ud-6PMD6aTiRvBd8kk-72" value="endTime：结束时间" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="z-ud-6PMD6aTiRvBd8kk-69">
+          <mxGeometry y="78" width="170" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="z-ud-6PMD6aTiRvBd8kk-75" value="payTime：付款时间" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="z-ud-6PMD6aTiRvBd8kk-69">
+          <mxGeometry y="104" width="170" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="z-ud-6PMD6aTiRvBd8kk-74" value="effectTime：生效时间" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="z-ud-6PMD6aTiRvBd8kk-69">
+          <mxGeometry y="130" width="170" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="z-ud-6PMD6aTiRvBd8kk-73" value="status：状态" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="z-ud-6PMD6aTiRvBd8kk-69">
+          <mxGeometry y="156" width="170" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
