@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-14T09:57:22.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="GnkHFEBqosDknVtkHPQx" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-14T10:01:37.089Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Lbr5FK7CQ3wGB_lZEQi-" version="16.2.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,8 +118,32 @@
         <mxCell id="mS3_CbJ7cD5-2b4cpnNX-48" value="开始骑行" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1490" y="550" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mS3_CbJ7cD5-2b4cpnNX-50" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mS3_CbJ7cD5-2b4cpnNX-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mS3_CbJ7cD5-2b4cpnNX-50" target="mS3_CbJ7cD5-2b4cpnNX-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mS3_CbJ7cD5-2b4cpnNX-50" value="寄存" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1920" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mS3_CbJ7cD5-2b4cpnNX-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mS3_CbJ7cD5-2b4cpnNX-51" target="mS3_CbJ7cD5-2b4cpnNX-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mS3_CbJ7cD5-2b4cpnNX-51" value="扫描柜子二维码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1920" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mS3_CbJ7cD5-2b4cpnNX-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mS3_CbJ7cD5-2b4cpnNX-53" target="mS3_CbJ7cD5-2b4cpnNX-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mS3_CbJ7cD5-2b4cpnNX-53" value="电池放入柜子内" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1920" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mS3_CbJ7cD5-2b4cpnNX-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mS3_CbJ7cD5-2b4cpnNX-55" target="mS3_CbJ7cD5-2b4cpnNX-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mS3_CbJ7cD5-2b4cpnNX-55" value="套餐自动冻结" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1920" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mS3_CbJ7cD5-2b4cpnNX-57" value="完成寄存" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1920" y="550" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
