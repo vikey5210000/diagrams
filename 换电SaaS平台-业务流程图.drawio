@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T08:05:32.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="-LgRwa2D1IkKUeDlIuWD" version="16.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-11T03:03:09.972Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="91FcGGztflJ36ryy8qSu" version="16.5.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -145,44 +145,92 @@
         <mxCell id="mS3_CbJ7cD5-2b4cpnNX-57" value="完成寄存" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1920" y="550" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_OBHFUkveLQ2NH9vmKVL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_OBHFUkveLQ2NH9vmKVL-5" target="_OBHFUkveLQ2NH9vmKVL-6">
+        <mxCell id="_OBHFUkveLQ2NH9vmKVL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_OBHFUkveLQ2NH9vmKVL-5" target="_OBHFUkveLQ2NH9vmKVL-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_OBHFUkveLQ2NH9vmKVL-5" value="离线换电" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_OBHFUkveLQ2NH9vmKVL-5" value="离线换电" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2400" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_OBHFUkveLQ2NH9vmKVL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_OBHFUkveLQ2NH9vmKVL-6" target="_OBHFUkveLQ2NH9vmKVL-8">
+        <mxCell id="_OBHFUkveLQ2NH9vmKVL-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_OBHFUkveLQ2NH9vmKVL-6" target="_OBHFUkveLQ2NH9vmKVL-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_OBHFUkveLQ2NH9vmKVL-6" value="输入手机号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_OBHFUkveLQ2NH9vmKVL-6" value="输入手机号" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2400" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_OBHFUkveLQ2NH9vmKVL-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_OBHFUkveLQ2NH9vmKVL-8" target="_OBHFUkveLQ2NH9vmKVL-10">
+        <mxCell id="_OBHFUkveLQ2NH9vmKVL-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_OBHFUkveLQ2NH9vmKVL-8" target="_OBHFUkveLQ2NH9vmKVL-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_OBHFUkveLQ2NH9vmKVL-8" value="放入低电量电池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_OBHFUkveLQ2NH9vmKVL-8" value="放入低电量电池" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2400" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_OBHFUkveLQ2NH9vmKVL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_OBHFUkveLQ2NH9vmKVL-10" target="_OBHFUkveLQ2NH9vmKVL-12">
+        <mxCell id="_OBHFUkveLQ2NH9vmKVL-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_OBHFUkveLQ2NH9vmKVL-10" target="_OBHFUkveLQ2NH9vmKVL-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_OBHFUkveLQ2NH9vmKVL-10" value="扫描二维码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_OBHFUkveLQ2NH9vmKVL-10" value="扫描二维码" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2400" y="440" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_OBHFUkveLQ2NH9vmKVL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_OBHFUkveLQ2NH9vmKVL-12" target="_OBHFUkveLQ2NH9vmKVL-14">
+        <mxCell id="_OBHFUkveLQ2NH9vmKVL-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_OBHFUkveLQ2NH9vmKVL-12" target="_OBHFUkveLQ2NH9vmKVL-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_OBHFUkveLQ2NH9vmKVL-12" value="输入回执码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_OBHFUkveLQ2NH9vmKVL-12" value="输入回执码" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2400" y="560" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_OBHFUkveLQ2NH9vmKVL-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_OBHFUkveLQ2NH9vmKVL-14" target="_OBHFUkveLQ2NH9vmKVL-16">
+        <mxCell id="_OBHFUkveLQ2NH9vmKVL-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_OBHFUkveLQ2NH9vmKVL-14" target="_OBHFUkveLQ2NH9vmKVL-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_OBHFUkveLQ2NH9vmKVL-14" value="取车高电量电池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_OBHFUkveLQ2NH9vmKVL-14" value="取车高电量电池" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2400" y="680" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_OBHFUkveLQ2NH9vmKVL-16" value="完成换电" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_OBHFUkveLQ2NH9vmKVL-16" value="完成换电" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2400" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i4F7AeMoR071uzatdTTK-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i4F7AeMoR071uzatdTTK-0" target="i4F7AeMoR071uzatdTTK-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i4F7AeMoR071uzatdTTK-0" value="退电池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2775" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i4F7AeMoR071uzatdTTK-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i4F7AeMoR071uzatdTTK-1" target="i4F7AeMoR071uzatdTTK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i4F7AeMoR071uzatdTTK-1" value="扫描柜子二维码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2775" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i4F7AeMoR071uzatdTTK-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i4F7AeMoR071uzatdTTK-3" target="i4F7AeMoR071uzatdTTK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i4F7AeMoR071uzatdTTK-3" value="放入电池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2775" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i4F7AeMoR071uzatdTTK-5" value="退电成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2775" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i4F7AeMoR071uzatdTTK-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i4F7AeMoR071uzatdTTK-9" target="i4F7AeMoR071uzatdTTK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i4F7AeMoR071uzatdTTK-9" value="退车" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3140" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i4F7AeMoR071uzatdTTK-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i4F7AeMoR071uzatdTTK-10" target="i4F7AeMoR071uzatdTTK-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i4F7AeMoR071uzatdTTK-10" value="车辆还至门店" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3140" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i4F7AeMoR071uzatdTTK-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i4F7AeMoR071uzatdTTK-12" target="i4F7AeMoR071uzatdTTK-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i4F7AeMoR071uzatdTTK-12" value="展示还车码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3140" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i4F7AeMoR071uzatdTTK-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i4F7AeMoR071uzatdTTK-14" target="i4F7AeMoR071uzatdTTK-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i4F7AeMoR071uzatdTTK-14" value="商家扫描还车码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3140" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i4F7AeMoR071uzatdTTK-16" value="还车成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="3140" y="560" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
