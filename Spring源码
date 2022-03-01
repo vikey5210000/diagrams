@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T07:48:46.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" version="16.6.4" etag="rq_RhdiSPWWu_B7Wn6z7" type="github"><diagram id="upsW2kC7nE6Hpk0Entkg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-01T07:54:35.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ZpoJY8lIsRRHa4345WX9" version="16.6.4" type="github">
+  <diagram id="upsW2kC7nE6Hpk0Entkg" name="第 1 页">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="o-n1uEPK-Bpv8ZxibQAl-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o-n1uEPK-Bpv8ZxibQAl-1" target="o-n1uEPK-Bpv8ZxibQAl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o-n1uEPK-Bpv8ZxibQAl-1" value="类.class" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o-n1uEPK-Bpv8ZxibQAl-2" value="Bean的创建生命周期" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o-n1uEPK-Bpv8ZxibQAl-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o-n1uEPK-Bpv8ZxibQAl-3" target="o-n1uEPK-Bpv8ZxibQAl-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o-n1uEPK-Bpv8ZxibQAl-3" value="无参构造方法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o-n1uEPK-Bpv8ZxibQAl-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o-n1uEPK-Bpv8ZxibQAl-5" target="o-n1uEPK-Bpv8ZxibQAl-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o-n1uEPK-Bpv8ZxibQAl-5" value="普通对象" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o-n1uEPK-Bpv8ZxibQAl-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o-n1uEPK-Bpv8ZxibQAl-7" target="o-n1uEPK-Bpv8ZxibQAl-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o-n1uEPK-Bpv8ZxibQAl-7" value="依赖注入&lt;br&gt;（属性赋值）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o-n1uEPK-Bpv8ZxibQAl-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o-n1uEPK-Bpv8ZxibQAl-9" target="o-n1uEPK-Bpv8ZxibQAl-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o-n1uEPK-Bpv8ZxibQAl-9" value="初始化前（@PostContruct）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o-n1uEPK-Bpv8ZxibQAl-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o-n1uEPK-Bpv8ZxibQAl-11" target="o-n1uEPK-Bpv8ZxibQAl-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o-n1uEPK-Bpv8ZxibQAl-11" value="初始化（InitializingBean）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o-n1uEPK-Bpv8ZxibQAl-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o-n1uEPK-Bpv8ZxibQAl-13" target="o-n1uEPK-Bpv8ZxibQAl-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o-n1uEPK-Bpv8ZxibQAl-13" value="初始化后（AOP）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o-n1uEPK-Bpv8ZxibQAl-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o-n1uEPK-Bpv8ZxibQAl-15" target="o-n1uEPK-Bpv8ZxibQAl-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o-n1uEPK-Bpv8ZxibQAl-15" value="代理对象" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o-n1uEPK-Bpv8ZxibQAl-17" value="Bean" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
